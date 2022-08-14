@@ -11,11 +11,6 @@ Final project for the Thinkful course.
 * NPM - To install all the dependencies...and stuff
 * Sublime Text - Where it's all put together!
 
-## Authors
-
-* **Gabriel Salas** - intial work and idea -
-* **Matias Salas**  - helped me put together the server stuff and game logic -
-
 ## Acknowledgments
 
 * John Watson - The base game mechanics - [Check it out here](http://gamemechanicexplorer.com/)
