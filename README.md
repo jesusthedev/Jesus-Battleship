@@ -17,4 +17,4 @@ Final project for the Thinkful course.
 
 ## Project Preview
 
-* Link - { https://gabesal.github.io/Capstone-Battleship/build/index.html }
+* Link - { https://jesusthedev.github.io/Jesus-Battleship/build/index.html }
